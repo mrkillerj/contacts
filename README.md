@@ -80,3 +80,5 @@ your friends.
 I edit this version
 
 I edit it again
+
+Are you joke !?  Git repository is not exist !!
